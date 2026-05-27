@@ -27,19 +27,19 @@ This is a personal portfolio file made using html and css.it demonstrates featur
 
 ## Key Features (What This Portfolio Demonstrates)
 
-### ✔ Modern UI with Clean Layout  
+### Modern UI with Clean Layout  
 Uses flexbox, spacing controls, and proper typography for a professional look.
 
-### ✔ Custom Navigation Bar  
+### Custom Navigation Bar  
 Styled dark navbar with hover effects and perfect alignment.
 
-### ✔ Background Header Section  
+### Background Header Section  
 Large header with background image integrated into the Home Page.
 
-### ✔ Skills Display Cards  
+### Skills Display Cards  
 Three well-styled cards showing both technical and soft skills.
 
-### ✔ Contact Form  
+### Contact Form  
 Functional structure ready for backend integration (future scope).
 
 ---
